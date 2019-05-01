@@ -1,0 +1,16 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "Floorplan",
+	"Description": "Interactively build you levels like a floorplan using modular meshes",
+	"Category": "Other",
+	"CreatedBy": "Alexis Morin",
+	"CreatedByURL": "https://github.com/alexismorin",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": true,
+	"Installed": false
+}
